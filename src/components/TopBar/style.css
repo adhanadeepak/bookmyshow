@@ -1,0 +1,51 @@
+.top-bar{
+    max-width: 1240px;
+    margin: 0 auto;
+    padding: 8px 0;
+}
+
+.logo-container{
+    width: 100px;
+}
+
+.search-bar{
+    padding: 8px 16px;
+    width: 400px;
+    border-radius: 2px;
+    background-color: #fff;
+}
+
+.search-bar .search-icon{
+    margin-right: 8px;
+}
+
+.search-bar .search-input{
+    border: none;
+    outline: none;
+    flex-grow: 2;
+    font-size: 14px;
+    font-weight: 500;
+
+}
+
+.nav-list-container{
+}
+
+.nav-items-list{
+    color: #efefef;
+    list-style: none;
+    margin: 0;
+}
+
+.nav-items-list li{
+    margin-right: 16px;
+}
+
+.nav-items-list .transparent-border-btn{
+    border: 1px solid #ddd;
+    background: transparent;
+    color: #fff;
+    padding: 6px 12px;
+    font-size: 14px;
+    border-radius: 3px;
+}
