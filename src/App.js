@@ -48,7 +48,7 @@ function App() {
   return (
     <div className="App">
         <Router>
-            <Header />
+            <Header movieList={Data.movieData}/>
 
             <Switch>
                 <Route path="/" exact>

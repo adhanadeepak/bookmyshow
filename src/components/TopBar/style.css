@@ -28,6 +28,48 @@
 
 }
 
+.search-results{
+    position: absolute;
+    top: 44px;
+    left: 19%;
+    background: #fff;
+    width: 78%;
+    z-index: 999;
+    max-height: 600px;
+    overflow: auto;
+}
+
+.search-results .movie-name-container{
+    display: flex;
+    align-items: center;
+    padding: 8px;
+    border-bottom: 1px solid #ddd;
+    cursor: pointer;
+}
+
+.search-results .movie-name-container:hover{
+    background-color: rgba(243,218,96,.4);
+}
+.search-results .movie-name-container .left-div{
+    width: 12%;
+}
+.search-results .movie-name-container .right-div{
+    width: 80%;
+}
+
+
+.search-results .movie-name-container .right-div .movie-name{
+    font-size: 14px;
+    font-weight: 500;
+    margin: 2px 0;
+}
+
+.search-results .movie-name-container .right-div .censor{
+    font-size: 14px;
+    font-weight: 400;
+    color: #aaa7a7;
+}
+
 .nav-list-container{
 }
 

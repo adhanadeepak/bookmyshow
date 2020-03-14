@@ -8,7 +8,7 @@ function index(props) {
     return (
         <header className={`header`}>
             <div className={`top-bar-container`}>
-                <TopBar />
+                <TopBar movieList={props.movieList}/>
             </div>
             <div className={`nav-bar-container`}>
                 <Nav />
