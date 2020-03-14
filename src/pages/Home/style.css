@@ -18,14 +18,89 @@
     margin: 0;
     margin-bottom: 16px;
 }
-.second-row .right-column .movie-list img{
-    border: none;
-    border-radius: 16px;
-    width: 18vw;
-    margin-right: 16px;
+
+.second-row .right-column .movie-list .slick-prev:before, .second-row .right-column .movie-list .slick-next:before {
+    visibility: hidden;
 }
+
+.second-row .right-column .movie-list:hover .slick-prev:before,.second-row .right-column .movie-list:hover .slick-next:before{
+    visibility: visible;
+}
+.second-row .right-column .movie-list .poster-img{
+    width: 100%;
+    border-radius: 4px 4px 0 0;
+}
+
+.second-row .right-column .movie-list .slick-list{
+    width: 800px;
+    height: 400px;
+}
+.second-row .right-column .movie-list .slick-list .slick-slide{
+    max-width: 278px;
+    min-width: 270px;
+}
+
+.second-row .right-column .movie-list .slick-list .slick-slide > div{
+    margin: 0 16px;
+}
+
+.second-row .right-column .movie-list .movie-card{
+    border-radius: 16px;
+}
+
+.second-row .right-column .movie-list .heart-icon{
+    width: 16px;
+    height: 16px;
+}
+
+.second-row .right-column .movie-list .movie-info-container{
+    display: flex;
+    padding: 8px;
+    background-color: #fff;
+    border-radius: 0 0 4px 4px;
+}
+
+
+.second-row .right-column .movie-list .movie-info-container .rating{
+    padding: 0 4px;
+    font-size: 14px;
+}
+.second-row .right-column .movie-list .movie-info{
+    flex-grow: 2;
+    display: flex;
+    flex-direction: column;
+    padding: 0 16px;
+}
+
+.second-row .right-column .movie-list .movie-info .movie-title{
+    font-weight: 500;
+    margin: 0;
+    font-size: 14px;
+    color: #333;
+    line-height: normal;
+    text-align: left;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    max-width: 120px;
+}
+
+.second-row .right-column .movie-list .movie-info .movie-genre{
+    font-weight: 400;
+    margin: 0;
+    padding:8px 0;
+    font-size: 12px;
+    color: #828282;
+    line-height: normal;
+    text-align: left;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    max-width: 120px;
+}
+
 .second-row .right-column{
-    font-size: 18x;
+    font-size: 18px;
 }
 
 .movie-list{

@@ -43,3 +43,21 @@
 .btn.link:hover{
   text-decoration: underline;
 }
+
+
+.slick-next:before, .slick-prev:before{
+  font-size: 50px !important;
+  line-height: 1;
+  opacity: .75;
+  color: #fff !important;
+}
+
+.slick-next{
+  right: 10px !important;
+  z-index: 11;
+}
+
+.slick-prev{
+  left: 10px !important;
+  z-index: 11;
+}
