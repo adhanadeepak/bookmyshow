@@ -29,3 +29,17 @@
 .cursor-pointer{
   cursor: pointer;
 }
+
+.btn.link{
+  background-color: transparent;
+  border: none;
+  outline: none;
+  color: #227dff;
+  font-size: 13px;
+  font-weight: normal;
+  cursor: pointer;
+}
+
+.btn.link:hover{
+  text-decoration: underline;
+}

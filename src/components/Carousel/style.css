@@ -1,0 +1,9 @@
+
+.carousel-img-container{
+    margin:16px;
+}
+
+.carousel-img-container img{
+    width: 95%;
+    border-radius: 6px;
+}

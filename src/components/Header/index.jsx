@@ -13,7 +13,6 @@ function index(props) {
             <div className={`nav-bar-container`}>
                 <Nav />
             </div>
-
         </header>
     );
 }
