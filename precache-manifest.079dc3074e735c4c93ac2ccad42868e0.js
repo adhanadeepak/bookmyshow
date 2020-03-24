@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "b6f218c09c04a0425b54d2d6160e1464",
+    "revision": "66fd25121a6d131aa136ce701d2b0e69",
     "url": "/bookmyshow/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/bookmyshow/static/css/2.34ad86ec.chunk.css"
   },
   {
-    "revision": "b2e97f5c8fe793f391df",
+    "revision": "4ff29334c08c030e12a9",
     "url": "/bookmyshow/static/css/main.244750bc.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/bookmyshow/static/js/2.b280bc79.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "b2e97f5c8fe793f391df",
-    "url": "/bookmyshow/static/js/main.9c6d16ab.chunk.js"
+    "revision": "4ff29334c08c030e12a9",
+    "url": "/bookmyshow/static/js/main.293fa75f.chunk.js"
   },
   {
     "revision": "560de84572ab94a909c1",
