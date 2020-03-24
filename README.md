@@ -1,5 +1,9 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+This is a sample project to replicate bookmyshow site home page.
+
+To view the site go to https://adhanadeepak.github.io/bookmyshow/
+
 ## Available Scripts
 
 In the project directory, you can run:
