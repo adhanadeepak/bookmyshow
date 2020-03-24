@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/bookmyshow/static/css/main.244750bc.chunk.css",
+    "main.js": "/bookmyshow/static/js/main.86687f59.chunk.js",
+    "main.js.map": "/bookmyshow/static/js/main.86687f59.chunk.js.map",
+    "runtime-main.js": "/bookmyshow/static/js/runtime-main.3a7f34d6.js",
+    "runtime-main.js.map": "/bookmyshow/static/js/runtime-main.3a7f34d6.js.map",
+    "static/css/2.34ad86ec.chunk.css": "/bookmyshow/static/css/2.34ad86ec.chunk.css",
+    "static/js/2.b280bc79.chunk.js": "/bookmyshow/static/js/2.b280bc79.chunk.js",
+    "static/js/2.b280bc79.chunk.js.map": "/bookmyshow/static/js/2.b280bc79.chunk.js.map",
+    "index.html": "/bookmyshow/index.html",
+    "precache-manifest.dd80887fa120692506fc021228bfb8e0.js": "/bookmyshow/precache-manifest.dd80887fa120692506fc021228bfb8e0.js",
+    "service-worker.js": "/bookmyshow/service-worker.js",
+    "static/css/2.34ad86ec.chunk.css.map": "/bookmyshow/static/css/2.34ad86ec.chunk.css.map",
+    "static/css/main.244750bc.chunk.css.map": "/bookmyshow/static/css/main.244750bc.chunk.css.map",
+    "static/js/2.b280bc79.chunk.js.LICENSE.txt": "/bookmyshow/static/js/2.b280bc79.chunk.js.LICENSE.txt",
+    "static/media/banner-1.jpg": "/bookmyshow/static/media/banner-1.520159d1.jpg",
+    "static/media/banner-2.jpg": "/bookmyshow/static/media/banner-2.cfa8bf18.jpg",
+    "static/media/banner-3.jpg": "/bookmyshow/static/media/banner-3.e9b339ba.jpg",
+    "static/media/book-my-show-logo-png-6.png": "/bookmyshow/static/media/book-my-show-logo-png-6.9858dffb.png",
+    "static/media/movie-poster.jpg": "/bookmyshow/static/media/movie-poster.140c1564.jpg",
+    "static/media/slick-theme.css": "/bookmyshow/static/media/slick.f97e3bbf.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3a7f34d6.js",
+    "static/css/2.34ad86ec.chunk.css",
+    "static/js/2.b280bc79.chunk.js",
+    "static/css/main.244750bc.chunk.css",
+    "static/js/main.86687f59.chunk.js"
+  ]
+}
