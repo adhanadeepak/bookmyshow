@@ -51,7 +51,7 @@ function App() {
             <Header movieList={Data.movieData}/>
 
             <Switch>
-                <Route path="/" exact>
+                <Route path="bookmyshow" exact>
                     <Home Data={Data} movieList={movieList} />
                 </Route>
             </Switch>
